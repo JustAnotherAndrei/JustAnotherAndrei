@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vezeteu Andrei
-- 👀 I’m interested in becoming a Software Engineer in Info Security/Cybersecurity 
+- 👀 I’m interested in becoming a Software Engineer in Info Security/Cybersecurity and Backend Development 
 - 🌱 I’m currently learning: Machine Learning
 - 📫 How to reach me: andreivezeteu2004@gmail.com (this is my personal email) ; andrei.vezeteu@info.uaic.ro (this is my university email)
 - 😄 Pronouns: He/Him
